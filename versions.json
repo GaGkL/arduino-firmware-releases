@@ -1,58 +1,17 @@
 [
-  {
-    "tag_name": "v3.10.14",
-    "published_at": "2026-07-05T00:00:00Z"
-  },
-  {
-    "tag_name": "v3.10.13",
-    "published_at": "2026-07-05T00:00:00Z"
-  },
-  {
-    "tag_name": "v3.10.12",
-    "published_at": "2026-07-04T00:00:00Z"
-  },
-  {
-    "tag_name": "v3.10.11",
-    "published_at": "2026-07-04T00:00:00Z"
-  },
-  {
-    "tag_name": "v3.10.9",
-    "published_at": "2026-07-04T00:00:00Z"
-  },
-  {
-    "tag_name": "v3.10.8",
-    "published_at": "2026-07-04T00:00:00Z"
-  },
-  {
-    "tag_name": "v3.10.7",
-    "published_at": "2026-07-04T00:00:00Z"
-  },
-  {
-    "tag_name": "v3.10.6",
-    "published_at": "2026-07-04T00:00:00Z"
-  },
-  {
-    "tag_name": "v3.10.5",
-    "published_at": "2026-07-04T00:00:00Z"
-  },
-  {
-    "tag_name": "v3.10.4",
-    "published_at": "2026-07-04T00:00:00Z"
-  },
-  {
-    "tag_name": "v3.10.3",
-    "published_at": "2026-07-04T00:00:00Z"
-  },
-  {
-    "tag_name": "v3.10.2",
-    "published_at": "2026-07-04T00:00:00Z"
-  },
-  {
-    "tag_name": "v3.10.1",
-    "published_at": "2026-07-03T00:00:00Z"
-  },
-  {
-    "tag_name": "v3.10.0",
-    "published_at": "2026-06-30T00:00:00Z"
-  }
+  {"tag_name":"v3.10.15","published_at":"2026-07-05T00:00:00Z"},
+  {"tag_name":"v3.10.14","published_at":"2026-07-05T00:00:00Z"},
+  {"tag_name":"v3.10.13","published_at":"2026-07-05T00:00:00Z"},
+  {"tag_name":"v3.10.12","published_at":"2026-07-04T00:00:00Z"},
+  {"tag_name":"v3.10.11","published_at":"2026-07-04T00:00:00Z"},
+  {"tag_name":"v3.10.9","published_at":"2026-07-04T00:00:00Z"},
+  {"tag_name":"v3.10.8","published_at":"2026-07-04T00:00:00Z"},
+  {"tag_name":"v3.10.7","published_at":"2026-07-04T00:00:00Z"},
+  {"tag_name":"v3.10.6","published_at":"2026-07-04T00:00:00Z"},
+  {"tag_name":"v3.10.5","published_at":"2026-07-04T00:00:00Z"},
+  {"tag_name":"v3.10.4","published_at":"2026-07-04T00:00:00Z"},
+  {"tag_name":"v3.10.3","published_at":"2026-07-04T00:00:00Z"},
+  {"tag_name":"v3.10.2","published_at":"2026-07-04T00:00:00Z"},
+  {"tag_name":"v3.10.1","published_at":"2026-07-03T00:00:00Z"},
+  {"tag_name":"v3.10.0","published_at":"2026-06-30T00:00:00Z"}
 ]
